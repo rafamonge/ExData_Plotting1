@@ -1,3 +1,6 @@
+## Student Notes
+The 4 R files assume the zip file has been extracted to the R Working Directory. The 4 PNG files will be written there as well.
+
 ## Introduction
 
 This assignment uses data from
